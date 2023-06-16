@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Subverrt's project</title>
-</head>
- <body>
-
-   <h1>My first html
-
-   </h1>
-        <p>Hi this is the first paragraph it's about my portfolio website
-
-        </p>
- <img src ="https://i.pinimg.com/originals/ee/e6/11/eee611a76b5520e0bac5dfc77ba2ae83.jpg">
- </body>
+  <head>
+      <title>Subverrt's project</title>
+  </head>
+     <body>
+       <h1> 
+          My first html
+       </h1>
+          <p>
+             Hi this is the first paragraph it's about my portfolio website
+          </p>
+       <img src ="https://i.pinimg.com/originals/ee/e6/11/eee611a76b5520e0bac5dfc77ba2ae83.jpg">
+     </body>
 </html>
